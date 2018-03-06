@@ -1,1 +1,1 @@
-# twitter-client-haskell
+# twitter
